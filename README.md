@@ -1,2 +1,2 @@
-# https://nyteksf.github.io/libary-e-commerce/
+# https://nyteksf.github.io/library-e-commerce/
 **library-e-commerce**
